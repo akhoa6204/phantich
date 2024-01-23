@@ -1,0 +1,14 @@
+D:\phantich\b3\obj\Debug\net7.0\b3.GeneratedMSBuildEditorConfig.editorconfig
+D:\phantich\b3\obj\Debug\net7.0\b3.AssemblyInfoInputs.cache
+D:\phantich\b3\obj\Debug\net7.0\b3.AssemblyInfo.cs
+D:\phantich\b3\obj\Debug\net7.0\b3.csproj.CoreCompileInputs.cache
+D:\phantich\b3\bin\Debug\net7.0\b3.exe
+D:\phantich\b3\bin\Debug\net7.0\b3.deps.json
+D:\phantich\b3\bin\Debug\net7.0\b3.runtimeconfig.json
+D:\phantich\b3\bin\Debug\net7.0\b3.dll
+D:\phantich\b3\bin\Debug\net7.0\b3.pdb
+D:\phantich\b3\obj\Debug\net7.0\b3.dll
+D:\phantich\b3\obj\Debug\net7.0\refint\b3.dll
+D:\phantich\b3\obj\Debug\net7.0\b3.pdb
+D:\phantich\b3\obj\Debug\net7.0\b3.genruntimeconfig.cache
+D:\phantich\b3\obj\Debug\net7.0\ref\b3.dll
